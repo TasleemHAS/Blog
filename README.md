@@ -9,6 +9,8 @@
    INTRODUCTION </p>
 <p><h4 style ="text-align:left;color:black;">HTML5, released in 2014, revolutionized web development by introducing a suite of new elements, attributes, and APIs. It brought forth a more structured, semantic way of building web pages, catering to the evolving needs of the internet. With HTML5, developers gained a powerful set of tools to create engaging, multimedia-rich, and responsive websites that were previously challenging to achieve with older HTML versions.
 </p>
+<img src ="Phone/Document/html. jpg";>
+</img>
 <p> <h3 style="text-align:left;color:green;font-weight:bold;font-style:italic;">FEATURES</p>
 <p><h3 style="text-align:left;color:purple;"> <b><u>1. Semantic Elements:</u></b> <br><br>
 <h4 style="text-align:left;color:black;">HTML5 introduced semantic elements like <strong>&lt;header&gt;</strong>, <strong>&lt;footer&gt;</strong>, <strong>&lt;nav&gt;</strong>, <strong>&lt;article&gt;</strong>, <strong>&lt;section&gt;</strong>, <strong>&lt;aside&gt;</strong>, and <strong>&lt;main&gt;</strong>. These tags provide clearer structure and meaning to web content, aiding accessibility and search engine optimization.</p>
