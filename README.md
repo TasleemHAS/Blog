@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> HTML</title>
+
 </head>
 <body style="text-align: center;">
   <h1 style ="color:red;">FEATURES OF HTML5</h1>
